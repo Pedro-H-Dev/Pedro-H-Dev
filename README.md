@@ -99,6 +99,9 @@ Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atual
 
 ### 🎓 Cursos e Cursos de Extensão
 
+#### 🖥️ Hardware & Fundamentos de TI
+- **Fundamentos de TI: Hardware e Software** — *Fundação Bradesco*
+  
 #### ☁️ Cloud, DevOps & Servidores
 - **AWS Cloud Practitioner Essentials** — *AWS Skill Builder*
 - **Getting Started with Docker** — *Simplilearn*
