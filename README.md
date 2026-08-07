@@ -1,9 +1,8 @@
-
-  # 👾 Pedro Henrique
+# 👾 Pedro Henrique
 
 **`Estudante de ADS | Cloud Computing, DevOps & Infraestrutura`**
 
-Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado de forma prática a estudos em **AWS, Docker, Nginx, Linux, Redes e governança ITIL v4**, além de possuir sólida base em **HTML, CSS, JavaScript e Git**. Busco minha primeira oportunidade para aplicar meus conhecimentos e continuar evoluindo!
+Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado de forma prática a estudos em **AWS, Docker, Terraform, Python, Bancos de Dados (MySQL/MongoDB), Nginx, Linux, Redes e governança ITIL v4**, além de possuir sólida base em **HTML, CSS, JavaScript e Git**. Busco minha primeira oportunidade para aplicar meus conhecimentos e continuar evoluindo!
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/pedro-h-devv/" target="_blank">
@@ -34,6 +33,38 @@ Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atual
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Terraform" 
+    title="Terraform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
     align="left" 
@@ -121,5 +152,3 @@ Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atual
 #### 🛠️ Versionamento & Outros
 - **Controle de Versão Git e GitHub** — *Curso em Vídeo*
 - **Pacote Office** — *Fundação Bradesco*
-
----
