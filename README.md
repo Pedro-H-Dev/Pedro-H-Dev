@@ -2,7 +2,7 @@
 
 **`Estudante de ADS | Cloud Computing, DevOps & Infraestrutura`**
 
-Me chamo Pedro Henrique, estou em transição para a área de Tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado de forma prática a estudos em **AWS, Docker, Terraform, Python, Bancos de Dados (MySQL/MongoDB), Nginx, Linux, Redes e governança ITIL v4**, além de possuir sólida base em **HTML, CSS, JavaScript e Git**. Busco minha primeira oportunidade para aplicar meus conhecimentos e continuar evoluindo!
+Me chamo Pedro Henrique, estou em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas. Atuo com desenvolvimento backend e automação de infraestrutura, aplicando na prática Python, SQL, AWS, Docker e Terraform em projetos próprios — aliado a experiência real em suporte técnico N1/N2 e infraestrutura de redes. Também tenho base em HTML, CSS, JavaScript e Git. Busco oportunidade para aplicar meus conhecimentos e continuar evoluindo!
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/pedro-h-devv/" target="_blank">
