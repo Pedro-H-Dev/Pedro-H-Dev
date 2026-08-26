@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Pedro Henrique
+# 👾 Pedro Henrique
 ### **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 *Desenvolvendo soluções do código à infraestrutura | Back-end, Cloud & DevOps*
 
