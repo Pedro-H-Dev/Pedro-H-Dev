@@ -1,154 +1,57 @@
-# 👾 Pedro Henrique
+<div align="center">
 
-**`Estudante de ADS | Cloud Computing, DevOps & Infraestrutura`**
+# 🚀 Pedro Henrique
+### **Estudante de ADS | Cloud Computing, DevOps & Infraestrutura de TI**
 
-Me chamo Pedro Henrique, estou em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas. Atuo com desenvolvimento backend e automação de infraestrutura, aplicando na prática Python, SQL, AWS, Docker e Terraform em projetos próprios — aliado a experiência real em suporte técnico N1/N2 e infraestrutura de redes. Também tenho base em HTML, CSS, JavaScript e Git. Busco oportunidade para aplicar meus conhecimentos e continuar evoluindo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-devv/)
+[![GitHub Respositórios](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-H-Dev)
 
-<p align="left">  
-  <a href="https://www.linkedin.com/in/pedro-h-devv/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="AWS" 
-    title="Amazon Web Services" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Terraform" 
-    title="Terraform" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nginx" 
-    title="Nginx" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash / Shell Script" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+### 💡 Sobre Mim
+Me chamo **Pedro Henrique**, estou em transição para a área de Tecnologia e cursando Análise e Desenvolvimento de Sistemas (ADS). Atuo com desenvolvimento backend e automação de infraestrutura, aplicando na prática **Python, SQL, AWS, Docker e Terraform** em projetos próprios — aliado à minha experiência real em suporte técnico N1/N2 e infraestrutura de redes. Busco uma oportunidade para aplicar meus conhecimentos, agregar valor e continuar evoluindo!
 
 ---
 
-### 🎓 Cursos e Cursos de Extensão
+### 🛠️ Stack Tecnológica
 
-#### 🖥️ Hardware & Fundamentos de TI
-- **Fundamentos de TI: Hardware e Software** — *Fundação Bradesco*
-  
+Aqui estão as principais ferramentas, linguagens e tecnologias com as quais trabalho e estudo no dia a dia:
+
+<div align="left">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) |
+| **💻 Back-end & Dados** | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white) |
+| **🌐 Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **🐧 Sistemas & Redes** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) |
+| **⚙️ Ferramentas** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+### 🎓 Cursos e Certificações
+
 #### ☁️ Cloud, DevOps & Servidores
-- **AWS Cloud Practitioner Essentials** — *AWS Skill Builder*
-- **Getting Started with Docker** — *Simplilearn*
-- **Curso de Nginx** — *Elevify*
-- **Introdução à Infraestrutura de Nuvem** — *Microsoft Learn*
-- **Desenvolver com o DevOps** — *Microsoft Learn*
+* **AWS Cloud Practitioner Essentials** — *AWS Skill Builder*
+* **Getting Started with Docker** — *Simplilearn*
+* **Curso de Nginx** — *Elevify*
+* **Introdução à Infraestrutura de Nuvem** — *Microsoft Learn*
+* **Desenvolver com o DevOps** — *Microsoft Learn*
 
 #### 🌐 Redes & Segurança
-- **CCNA: Introduction to Networks** — *Cisco Networking Academy*
-- **Introduction to Cybersecurity** — *Cisco Networking Academy*
-- **Fundamentos de Redes de Computadores** — *Cursa.app*
+* **CCNA: Introduction to Networks** — *Cisco Networking Academy*
+* **Introduction to Cybersecurity** — *Cisco Networking Academy*
+* **Fundamentos de Redes de Computadores** — *Cursa.app*
 
 #### 🐧 Sistemas & Governança
-- **Essencial de Linux e Shell Linux** — *Udemy*
-- **ITIL 4 Foundation** — *Udemy*
+* **Essencial de Linux e Shell Linux** — *Udemy*
+* **ITIL 4 Foundation** — *Udemy*
 
-#### 🛠️ Versionamento & Outros
-- **Controle de Versão Git e GitHub** — *Curso em Vídeo*
-- **Pacote Office** — *Fundação Bradesco*
+#### 🖥️ Fundamentos de TI & Outros
+* **Fundamentos de TI: Hardware e Software** — *Fundação Bradesco*
+* **Controle de Versão Git e GitHub** — *Curso em Vídeo*
+* **Pacote Office** — *Fundação Bradesco*
