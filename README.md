@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🚀 Pedro Henrique
-### **Estudante de ADS | Cloud Computing, DevOps & Infraestrutura de TI**
+# 👨‍💻 Pedro Henrique
+### **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
+*Desenvolvendo soluções do código à infraestrutura | Back-end, Cloud & DevOps*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-devv/)
 [![GitHub Respositórios](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-H-Dev)
