@@ -2,7 +2,7 @@
 
 # 👾 Pedro Henrique
 ### **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
-*Desenvolvendo soluções do código à infraestrutura | Back-end, Cloud & DevOps*
+*Conectando Suporte, Infraestrutura & Desenvolvimento Full Stack*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-devv/)
 [![GitHub Respositórios](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-H-Dev)
@@ -37,6 +37,7 @@ Aqui estão as principais ferramentas, linguagens e tecnologias com as quais tra
 ### 🎓 Cursos e Certificações
 
 #### ☁️ Cloud, DevOps & Servidores
+* **AI-900: Fundamentos de IA no Azure** — *Fundação Bradesco*
 * **AWS Cloud Practitioner Essentials** — *AWS Skill Builder*
 * **Getting Started with Docker** — *Simplilearn*
 * **Curso de Nginx** — *Elevify*
