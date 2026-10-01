@@ -12,7 +12,7 @@
 ---
 
 ### 💡 Sobre Mim
-Me chamo **Pedro Henrique**, estou em transição para a área de Tecnologia e cursando Análise e Desenvolvimento de Sistemas (ADS). Atuo com desenvolvimento backend e automação de infraestrutura, aplicando na prática **Python, SQL, AWS, Docker e Terraform** em projetos próprios — aliado à minha experiência real em suporte técnico N1/N2 e infraestrutura de redes. Busco uma oportunidade para aplicar meus conhecimentos, agregar valor e continuar evoluindo!
+Me chamo Pedro Henrique, estou no 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) e possuo vivência prática no ciclo completo de TI — atuando em campo com suporte N1/N2, cabeamento estruturado e infraestrutura de redes. No desenvolvimento, construo aplicações Full Stack (Python, Java, JavaScript/HTML/CSS) e automatizo rotinas e infraestrutura utilizando SQL, Docker e AWS. Unifico a visão prática de hardware e redes com o desenvolvimento de código limpo para solucionar problemas de forma rápida e eficiente. Busco uma oportunidade para aplicar meus conhecimentos, agregar valor e continuar evoluindo!
 
 ---
 
@@ -40,8 +40,6 @@ Aqui estão as principais ferramentas, linguagens e tecnologias com as quais tra
 * **AWS Cloud Practitioner Essentials** — *AWS Skill Builder*
 * **Getting Started with Docker** — *Simplilearn*
 * **Curso de Nginx** — *Elevify*
-* **Introdução à Infraestrutura de Nuvem** — *Microsoft Learn*
-* **Desenvolver com o DevOps** — *Microsoft Learn*
 
 #### 🌐 Redes & Segurança
 * **CCNA: Introduction to Networks** — *Cisco Networking Academy*
